@@ -11,10 +11,10 @@
     "prepublish": "pnpm run build",
     "release": "npx bumpp --push --tag --commit && pnpm publish"
   },
-  "homepage": "https://github.com/qdleader/qdleader",
+  "homepage": "https://github.com/qdleader/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qdleader/qdleader"
+    "url": "https://github.com/qdleader/vite-progress"
   },
   "keywords": [
     "vite",

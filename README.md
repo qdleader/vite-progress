@@ -18,5 +18,8 @@ export default defineConfig({
 
 ```
 
+## todo
+颜色，长度等信息可调整
+
 
 
