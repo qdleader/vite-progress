@@ -73,9 +73,8 @@ export default function acnBuildPlugin(): PluginOption {
               });
           });
         }
-        // 测试代码
         fileDisplay('./src', (arr) => {
-          console.log(1111,fileCount);
+          // console.log(1111,fileCount);
         })
       }
     },

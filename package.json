@@ -1,6 +1,6 @@
 {
   "name": "icourt-build-plugin",
-  "version": "1.0.9",
+  "version": "1.2.1",
   "description": "A vite build plugin",
   "main": "./dist/index.mjs",
   "scripts": {

@@ -73,7 +73,6 @@ function acnBuildPlugin() {
           });
         };
         fileDisplay("./src", (arr) => {
-          console.log(1111, fileCount);
         });
       }
     },
